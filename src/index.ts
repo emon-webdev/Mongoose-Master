@@ -4,8 +4,6 @@ import app from './app';
 
 const port: Number = 5000
 
-
-
 //database connetion
 async function bootstrap() {
     try {
